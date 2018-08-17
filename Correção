@@ -1,0 +1,17 @@
+# Caracteres-Distorcidos
+Para ISO-8859-1:
+
+<html>
+<head>
+<title>Minha pagina</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+Para UTF-8:
+
+<html>
+<head>
+<title>Minha pagina</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
